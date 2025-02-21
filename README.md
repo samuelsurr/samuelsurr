@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="github-header-image.png" />
+  <img src="github-header-image(5).png" />
   </p>
 
 
@@ -39,6 +39,13 @@
 
 
 
-👋 I’m Samuel Sur <br> 👀 I’m interested in Machine learning and Game design<br>🌱 I’m currently a high school student in NVOT<br>📫 How to reach me: hyunjoonsur@gmail.com<br>
+## 
+# 👋 I’m Samuel Sur
+
+# 👀 I’m interested in Machine learning and Game design
+
+# 🌱 I’m currently a high school student in NVOT
+
+# 📫 How to reach me: hyunjoonsur@gmail.com
 
 
